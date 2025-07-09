@@ -4,6 +4,7 @@ A sleek, React-based **game discovery web app** built on top of the RAWG Video G
 
 > Discover your next favorite game with PlayNext — fast, responsive, and beautiful.
 
+link to the hosted website: https://play-next-react.vercel.app/
 ---
 
 ## 🚀 Features
